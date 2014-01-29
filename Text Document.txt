@@ -3,5 +3,3 @@ Sample Text Updated - Testing with rollback
 Test Master
 
 Merging Test
-
-Just check
